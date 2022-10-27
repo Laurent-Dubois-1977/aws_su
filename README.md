@@ -114,7 +114,7 @@ As I got to the point where I needed to access dozens of AWS accounts and profil
 
 As final note, the credentials in the file can be named as you wish (just keep one named as [default]) so I usually have a taxonomy for the profile names. I generally use the system name, environment, and basic description of the access level for profile names as in the following example:  `ACMEERP_PROD_ADMIN`. 
 
-I hope this will be helpful to you. If you have any questions or suggestions, please email me, or leave a comment. 
+I hope this will be helpful to you. If you have any questions or suggestions, please message me. 
 
 
  
